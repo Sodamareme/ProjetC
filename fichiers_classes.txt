@@ -1,0 +1,6 @@
+Liste des classes disponibles :
+Classe A
+Classe B
+Classe C
+Classe D
+Classe E
