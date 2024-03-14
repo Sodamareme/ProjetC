@@ -1,3 +1,2 @@
-Login: , Classe: , Date: 2024-03-07, Heure: 18:01:07
-
-Login: , Classe: , Date: 2024-03-07, Heure: 19:03:11
+Code: 102, Nom: Marie Martin, Classe: Terminale
+Code: 101, Nom: Jean Dupont, Classe: Première

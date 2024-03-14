@@ -1,0 +1,3 @@
+Code: 1001, Nom: Jean Dupont, Classe: 1A
+Code: 101, Nom: Jean Dupont, Classe: Première
+Code: 101, Nom: Jean Dupont, Classe: Première
